@@ -15,7 +15,7 @@ github_username:  mcpa-stlouis
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /news/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
 
