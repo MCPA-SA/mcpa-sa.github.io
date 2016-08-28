@@ -15,5 +15,5 @@ href='http://missouribusinessalert.com/industries/60418/2015/06/12/globalhack-sh
 press release</a> for more details and pictures.
 </p>
 <div class="col s12 m6">
-  <img class="z-depth-2" src="/img/news/globalhack.jpg" width="100%"></img>
+  <img class="z-depth-2" src="/img/news/globalhack.jpg" width="100%">
 </div>
