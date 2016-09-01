@@ -10,7 +10,7 @@ th, td {
     padding: 15px;
 }
 </style>
-<table style="width:100%">
+<table>
   <tr>
     <th>Position</th>
     <th>Name</th> 
