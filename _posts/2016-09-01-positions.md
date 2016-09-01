@@ -11,6 +11,8 @@ th, td {
 }
 </style>
 <table>
+  <col width="100">
+  <col width="100">
   <tr>
     <th>Position</th>
     <th>Name</th> 
