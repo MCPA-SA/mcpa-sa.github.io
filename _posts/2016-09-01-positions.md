@@ -12,9 +12,28 @@ th, td {
 </style>
 <table style="width:100%">
   <tr>
-    <th>President</th>
-    <th>Vice President</th> 
-    <th>Treasurer</th>
+    <th>Position</th>
+    <th>Name</th> 
+  </tr>
+  <tr>
+    <td>President</td>
+    <td>Jason Scott</td>
+  </tr>
+  <tr>
+    <td>Vice President</td>
+    <td>John Tagita</td>
+  </tr>
+  <tr>
+    <td>Treasurer</td>
+    <td>Scott Ponte</td>
+  </tr>
+  <tr>
+    <td>Web Admin</td>
+    <td>Raymond Evans</td>
+  </tr>
+  <tr>
+    <td>Social Event Coordinator</td>
+    <td>Angel Dingui</td>
   </tr>
 </table>
 </p>
