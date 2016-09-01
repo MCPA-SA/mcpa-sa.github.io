@@ -10,6 +10,7 @@ th, td {
     padding: 15px;
 }
 </style>
+<body>
 <table>
   <tr>
     <th style="width:80">Position</th>
@@ -36,3 +37,4 @@ th, td {
     <td>Angel Dingui</td>
   </tr>
 </table>
+</body>
