@@ -11,11 +11,9 @@ th, td {
 }
 </style>
 <table>
-  <col width="100">
-  <col width="100">
   <tr>
-    <th>Position</th>
-    <th>Name</th> 
+    <th style="width:80">Position</th>
+    <th style="width:80">Name</th> 
   </tr>
   <tr>
     <td>President</td>
