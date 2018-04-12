@@ -1,6 +1,6 @@
 # Site settings
-title: Military Cyber Professionals Association, St. Louis Chapter
-email: contact.stlouis@milcyber.org
+title: Military Cyber Professionals Association, San Antonio Chapter
+email: contact.sanantonio@milcyber.org
 description: > # this means to ignore newlines until "baseurl:"
   We are a team of Soldiers, Sailors, Airmen, Marines, Veterans and others
   interested in the development of the American military cyber profession. Our
@@ -9,9 +9,9 @@ description: > # this means to ignore newlines until "baseurl:"
   are other government employees, contractors, academics, industry leaders,
   foreign allies, and private citizens.
 baseurl: "" 
-url: "https://mcpa-stl.org"
-twitter_username: MCPA_StLouis
-github_username:  mcpa-stlouis
+url: "https://mcpa-sa.org"
+twitter_username: milcyber
+github_username:  mcpa-sa
 
 # Build settings
 markdown: kramdown
